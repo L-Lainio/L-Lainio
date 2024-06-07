@@ -53,15 +53,14 @@ Here are some ideas to get you started:
 ###
 
 <div align="right">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVjdHd1aTE5aGl4bHl2amRzNGo4YjJteGFuOWltZGxrYnFvdzhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3CtEsJ72j86DIumaJ/giphy.gif"  />
+  <img src="https://streak-stats.demolab.com?user=L-Lainio&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  /br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L-Lainio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  /br>
+      <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVjdHd1aTE5aGl4bHl2amRzNGo4YjJteGFuOWltZGxrYnFvdzhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3CtEsJ72j86DIumaJ/giphy.gif"  />
 </div>
 
 ###
 
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=L-Lainio&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L-Lainio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=L-Lainio&bg_color=512a3f&color=eacce8&line=9e4c98&point=c5afaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 
